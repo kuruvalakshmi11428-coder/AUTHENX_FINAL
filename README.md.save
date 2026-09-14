@@ -1,0 +1,30 @@
+# AUTHENX
+
+## Beyond Fake or Real: Explainable Identity Risk Investigation
+
+AUTHENX is an academic prototype for SIH26188: Fake Identity and Document Screening.
+
+## Features
+
+- Upload two document images
+- Preview uploaded documents
+- Extract text using OCR
+- Compare document text
+- Generate explainable risk score
+- Display risk level and reasons
+
+## Technologies
+
+- Python
+- Streamlit
+- Pillow
+- Pytesseract
+- Tesseract OCR
+
+## Installation
+
+Install Python dependencies:
+
+```bash
+pip install -r requirements.txt
+
